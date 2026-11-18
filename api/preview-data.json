@@ -1,0 +1,33 @@
+{
+  "registry": {
+    "kicker": "Project registry",
+    "title": "Northline, episode 04.",
+    "summary": "Twelve scenes in generate. Four waiting on a director’s note.",
+    "statusLabel": "In review",
+    "facts": [
+      "Owner: stage",
+      "Status: review",
+      "Assets linked"
+    ]
+  },
+  "scene": {
+    "kicker": "Scene board",
+    "title": "Shot 12, canyon plate.",
+    "summary": "The Cosmos pass stays attached to the scene, with the take number beside it.",
+    "facts": [
+      "Scene 03",
+      "Take 07",
+      "Version B"
+    ]
+  },
+  "approvals": {
+    "kicker": "Approvals",
+    "title": "One note. Then lock.",
+    "summary": "The reviewer, the comment, and the status sit on the same cut.",
+    "facts": [
+      "Needs note",
+      "In review",
+      "Approved"
+    ]
+  }
+}
